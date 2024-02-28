@@ -9,14 +9,14 @@
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+ 🌱 I’m currently learning **Django, Rest Framework, Azure**
+ 
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+💬 Ask me about **React, Sanity... or anything [here](https://github.com/salesp07/salesp07/issues)**
+
+
+⚡ Fun fact **The Office is lowkey one of the best series ever made.**
 
  </div>
  
