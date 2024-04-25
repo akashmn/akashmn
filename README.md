@@ -46,3 +46,28 @@
 <hr/>
 
 <hr/>
+
+<div align="left">
+        <h2><img width="30" align="center"
+                src="https://emojis.slackmojis.com/emojis/images/1471045834/769/bike.gif?1471045834" /> &nbsp;My Stats
+        </h2>
+    </div>
+    <br />
+    <div>
+            <p align="center">
+                <img height="160" alt="Akash's Github Stats"
+                    src="https://github-readme-stats.vercel.app/api?username=akashmn&show_icons=true&hide_border=true&theme=dark&count_private=true" />
+                <img alt="Akash's Github Stats" height="160"
+                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashmn&hide=assembly&layout=compact&theme=dark" />
+            </p>  
+<p align="center">
+  <a href="#">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashmn"/>
+  </a>
+</p>
+    </div>
+    
+</p>
+
+
+</div>
