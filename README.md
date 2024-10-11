@@ -1,73 +1,17 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=akashmn.akashmn" />
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Akash+M+Nandan!;Web+Developer;CSE+Student+(2025);Tech+Enthusiast" />
-</h1>
-
-<h3 align="center">A passionate software developer from India 🇮🇳</h3>
-
-<br/>
-
-<div align="center">
-
- 🌱 I’m currently learning **Django, Rest Framework, Azure**
- 
-
-💬 Ask me about **React, Sanity... or anything [here](https://github.com/salesp07/salesp07/issues)**
+# 💫 Hi There!!:
+🔭 Final Year @college of Engineering Chengannur<br>👯 I’m looking to collaborate on Open-Source Projects<br>🤝 I’m looking for help with AI/ML<br>💬 Ask me about MyProjects, WebDev ... &Football ⚽<br>⚡ Fun fact "The Office is lowkey one of the best series ever made"
 
 
-⚡ Fun fact **The Office is lowkey one of the best series ever made.**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=akashmn&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=akashmn&theme=highcontrast&hide_border=false)<br/>
 
- </div>
- 
-<div align="center"> 
-  <a href="mailto:akash003nandan@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/akashmnandan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://portfolio-demo-rho.vercel.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=akashmn&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,figma,tailwind,git,github,vite" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,firebase,c,java,nextjs,mysql,django,postman,vercel" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,npm,yarn,postgres,py,replit,sass,styledcomponents,threejs" /><br>
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=akashmn&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<br/>
-<hr/>
-
-<hr/>
-
-<div align="left">
-        <h2><img width="30" align="center"
-                src="https://emojis.slackmojis.com/emojis/images/1471045834/769/bike.gif?1471045834" /> &nbsp;My Stats
-        </h2>
-    </div>
-    <br />
-    <div>
-            <p align="center">
-                <img height="160" alt="Akash's Github Stats"
-                    src="https://github-readme-stats.vercel.app/api?username=akashmn&show_icons=true&hide_border=true&theme=dark&count_private=true" />
-                <img alt="Akash's Github Stats" height="160"
-                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashmn&hide=assembly&layout=compact&theme=dark" />
-            </p>  
-<p align="center">
-  <a href="#">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashmn"/>
-  </a>
-</p>
-    </div>
-    
-</p>
-
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
