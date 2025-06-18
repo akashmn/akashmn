@@ -1,5 +1,5 @@
 # 💫 Hi There!!:
-🔭 Final Year @college of Engineering Chengannur<br>👯 I’m looking to collaborate on Open-Source Projects<br>🤝 I’m looking for help with AI/ML<br>💬 Ask me about MyProjects, WebDev ... &Football ⚽<br>⚡ Fun fact "The Office is lowkey one of the best series ever made"
+🔭 CSE Graduate @college of Engineering Chengannur<br>👯 I’m looking to collaborate on Open-Source Projects<br>🤝 I’m looking for help with AI/ML<br>💬 Ask me about MyProjects, WebDev ... &Football ⚽<br>⚡ Fun fact "The Office is lowkey one of the best series ever made"
 
 
 # 💻 Tech Stack:
